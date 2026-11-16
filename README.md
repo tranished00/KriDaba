@@ -1,1 +1,3 @@
-# KriDaba
+#  KriDaba
+
+KriDaba (« Louer maintenant ») est une application web de location entre particuliers conçue pour le marché marocain. Elle met en relation des propriétaires d'objets avec des personnes souhaitant louer des outils, des appareils électroniques, des équipements et des articles du quotidien localement et à moindre coût, offrant un moyen simple et sécurisé de parcourir, publier et réserver des articles pour une courte durée.
